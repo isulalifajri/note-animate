@@ -1,0 +1,3 @@
+<a href="https://wa.me/6281++?text=halo {{ url()->current() }}" class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+</a>
