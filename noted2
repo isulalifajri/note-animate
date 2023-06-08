@@ -1,3 +1,7 @@
 <a href="https://wa.me/6281++?text=halo {{ url()->current() }}" class="float" target="_blank">
     <i class="fa fa-whatsapp my-float"></i>
 </a>
+
+
+//looping for previus and next btn with jquery
+https://stackoverflow.com/questions/29521700/javascript-jquery-loop-through-divs-and-add-next-prev-buttons-with-click-event
